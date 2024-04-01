@@ -1,0 +1,39 @@
+@media (min-width: 320px) and (max-width: 932px) {
+
+    .card {
+        width: 80vw;
+    }
+
+    #img-article{
+        width: 100%;
+    }
+
+    .category {
+        width: 70px;
+        border-radius: 5px;
+    }
+
+    .published-date{
+        font-size: 12px;
+    }
+
+    .card-text {
+        width: 100%;
+    }
+
+    .title {
+        font-size: 18px;
+    }
+
+    .description {
+        font-size: 12.8px;
+    }
+
+    .author-name{
+        font-size: 12px;
+    }
+
+    .img-avatar{
+        width: 40px;
+    }
+}
